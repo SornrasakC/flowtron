@@ -2,7 +2,9 @@
 	path = tacotron2
 	url = https://github.com/NVIDIA/tacotron2
 	branch = master
+	ignore = all
 [submodule "apex"]
 	path = apex
 	url = https://github.com/NVIDIA/apex
 	branch = master
+	ignore = all
