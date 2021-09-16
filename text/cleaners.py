@@ -111,6 +111,7 @@ def transliteration_cleaners(text):
     return text
 
 def thai_transliteration_cleaners(text):
+    '''custom cleaner'''
     text = remove_hyphens(text)
     text = convert_to_ascii(text)
     text = lowercase(text)
