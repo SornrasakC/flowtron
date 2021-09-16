@@ -24,9 +24,9 @@
         "ctc_loss_start_iter": 10000
     },
     "data_config": {
-        "training_files": "filelists/ljs_audiopaths_text_sid_train_filelist.txt",
-        "validation_files": "filelists/ljs_audiopaths_text_sid_val_filelist.txt",
-        "text_cleaners": ["flowtron_cleaners"],
+        "training_files": "filelists/thai_train.txt",
+        "validation_files": "filelists/thai_val.txt",
+        "text_cleaners": ["thai_transliteration_cleaners"],
         "p_arpabet": 0.5,
         "cmudict_path": "data/cmudict_dictionary",
         "sampling_rate": 22050,

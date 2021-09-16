@@ -110,10 +110,15 @@ def transliteration_cleaners(text):
     text = collapse_whitespace(text)
     return text
 
+def thai_transliteration_cleaners(text):
+    text = remove_hyphens(text)
+    text = convert_to_ascii(text)
+    text = lowercase(text)
+    text = collapse_whitespace(text)
+    return text
 
 def flowtron_cleaners(text):
     text = collapse_whitespace(text)
-    text = remove_hyphens(text)
     text = expand_datestime(text)
     text = expand_numbers(text)
     text = expand_safe_abbreviations(text)
