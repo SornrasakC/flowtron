@@ -18,7 +18,6 @@ from .numbers import normalize_numbers
 from .acronyms import normalize_acronyms
 from .datestime import normalize_datestime
 
-
 # Regular expression matching whitespace:
 _whitespace_re = re.compile(r'\s+')
 
@@ -115,6 +114,12 @@ def thai_transliteration_cleaners(text):
     text = remove_hyphens(text)
     text = convert_to_ascii(text)
     text = lowercase(text)
+    text = collapse_whitespace(text)
+    return text
+
+def thai_cleaners(text):
+    '''custom cleaner'''
+    text = remove_hyphens(text)
     text = collapse_whitespace(text)
     return text
 
