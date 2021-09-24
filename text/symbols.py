@@ -18,4 +18,5 @@ _letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 _arpabet = ['@' + s for s in cmudict.valid_symbols]
 
 # Export all symbols:
+# 185 (engs syms) + 88 (thai) = 273
 symbols = list(_punctuation + _math + _special + _accented + _numbers + _letters) + _arpabet + list(thai_characters)

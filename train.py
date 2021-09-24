@@ -102,6 +102,10 @@ def warmstart(checkpoint_path, model, include_layers=None):
             model_dict['speaker_embedding.weight'].shape):
         del pretrained_dict['speaker_embedding.weight']
 
+    if (pretrained_dict['embedding.weight'].shape !=
+            model_dict['embedding.weight'].shape):
+        del pretrained_dict['embedding.weight']
+
     model_dict.update(pretrained_dict)
     model.load_state_dict(model_dict)
     return model
