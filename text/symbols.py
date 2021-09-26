@@ -19,4 +19,7 @@ _arpabet = ['@' + s for s in cmudict.valid_symbols]
 
 # Export all symbols:
 # 185 (engs syms) + 88 (thai) = 273
-symbols = list(_punctuation + _math + _special + _accented + _numbers + _letters) + _arpabet + list(thai_characters)
+# symbols = list(_punctuation + _math + _special + _accented + _numbers + _letters) + _arpabet + list(thai_characters)
+
+# (39) + 88 = 127
+symbols = list(_punctuation + _math + _special + _numbers) + list(thai_characters)

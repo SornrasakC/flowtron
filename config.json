@@ -49,7 +49,7 @@
     "model_config": {
         "n_speakers": 1,
         "n_speaker_dim": 128,
-        "n_text": 273,
+        "n_text": 127,
         "n_text_dim": 512,
         "n_flows": 1,
         "n_mel_channels": 80,
