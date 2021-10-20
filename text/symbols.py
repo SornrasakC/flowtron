@@ -9,8 +9,9 @@ The default is a set of ASCII characters that works well for English or text tha
 
 _punctuation = '!\'",.:;? '
 _math = '#%&*+-/[]()'
-_special = '_@©°½—₩€$'
-_accented = 'áçéêëñöøćž'
+# _special = '_@©°½—₩€$'
+# _special = '_©°½—₩€$'
+# _accented = 'áçéêëñöøćž'
 _numbers = '0123456789'
 _letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 
@@ -87,5 +88,5 @@ _thai_ipa_mapped = ['@' + s for s in _thai_ipa_map.values()]
 # (39) + 88 = 127
 # symbols = list(_punctuation + _math + _special + _numbers) + list(thai_characters)
 
-# 93
-symbols = list(set( list(_punctuation + _math + _special + _numbers) + _thai_ipa_mapped ))
+# 84
+symbols = list(set( list(_punctuation + _math + _numbers) + _thai_ipa_mapped ))
