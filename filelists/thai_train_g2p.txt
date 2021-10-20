@@ -382,7 +382,6 @@
 /content/wav/tsync2_noon_69_8581.wav|prà phêet hee pee in fʉan chân kha na bɔɔ dii khá ná sàt ta wa phɛ̂ɛt sàat cù laa|0
 /content/wav/tsync2_noon_22_437.wav|yaŋ kə̀ət hèet khon ráay lɔ̂ɔp waaŋ rá bə̀ət rót bát thîi mʉaŋ khwéeŋ tâa thaaŋ phâak tà wan tòk chǐaŋ tâay klây phrom dɛɛn an faay kaa nin sa thǎan|0
 /content/wav/tsync2_noon_39_4412.wav|phǒm mây khít wâa aa yú yaŋ nɔ́ɔy rɔ̀ɔk mɛ́ɛ cà aa yú sìp kâaw|0
-/content/wav/tsync2_noon_99_187.wav|naaŋ tɛɛŋ pǐw sɔ̀ɔ chát mûa bɔ̀n yə́ tâŋ tɛ̀ɛ sǐa chǒom|0
 /content/wav/tsync2_noon_16_1784.wav|phuum cay phɔ̀ɔt leen fǐi mʉʉ khon thay|0
 /content/wav/tsync2_noon_48_1986.wav|hòk naay frii ruu bay lə̂ə aa yú yîi sìp kâaw pii chaaw aŋ krìt|0
 /content/wav/tsync2_noon_57_2378.wav|mây sâap rʉ̂aŋ thîi naaŋ cha wǐi wan kha cɔɔn prà sàat maan daa khɔ̌ɔŋ tua ɔ̀ɔk maa rá bù khlʉ̂an wǎy lâa raay chʉ̂ʉ chaaw phí cìt|0

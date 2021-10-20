@@ -7,7 +7,7 @@
         "weight_decay": 1e-6,
         "grad_clip_val": 1,
         "sigma": 1.0,
-        "iters_per_checkpoint": 800,
+        "iters_per_checkpoint": 1000,
         "batch_size": 1,
         "seed": 1234,
         "checkpoint_path": "",
@@ -24,8 +24,8 @@
         "ctc_loss_start_iter": 10000
     },
     "data_config": {
-        "training_files": "filelists/thai_train_g2p.txt",
-        "validation_files": "filelists/thai_val_g2p.txt",
+        "training_files": "filelists/thai_train_g2p_map.txt",
+        "validation_files": "filelists/thai_val_g2p_map.txt",
         "text_cleaners": ["thai_cleaners"],
         "p_arpabet": 0.0,
         "cmudict_path": "data/cmudict_dictionary",
@@ -49,7 +49,7 @@
     "model_config": {
         "n_speakers": 1,
         "n_speaker_dim": 128,
-        "n_text": 179,
+        "n_text": 93,
         "n_text_dim": 512,
         "n_flows": 2,
         "n_mel_channels": 80,
