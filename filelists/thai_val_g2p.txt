@@ -1,0 +1,28 @@
+/content/wav/tsync2_noon_0_1943.wav|c a2 w^ s uua4 z^ ch aa0 z^ tr ii0 z^ ch o0 m^ p @1 z^ h u2 n^ kr a1 z^ ch uu2 t^ ph o4 n^ ng aa0 n^ r a3 t^ n vva3 z^ n vva3 z^ z u4 j^ m a2 j^ r uu3 z^ khr a0 j^ s a1 ng^ b ii1 p^ s a1 z^ pr ee3 t^|0
+/content/wav/tsync2_noon_0_728_2.wav|k aa3 t^ r vv4 z^ k aa3 t^ l ee4 w^ b a0 n^ c u1 z^ n a0 j^ ph aa0 z^ ch a3 z^ n a3 z^ d oo0 j^ m ii0 z^ p a1 z^ r i3 z^ m aa0 n^ r uua0 m^ k a0 n^ k qq0 n^ kw aa1 z^ n v1 ng^ ph a0 n^ l i3 t^|0
+/content/wav/tsync2_noon_0_7137.wav|l x3 z^ n a0 j^ z a1 z^ n aa0 z^ k o3 t^ h aa1 k^ l vva4 z^ p u4 j^ m aa2 k^ ph @@0 z^|0
+/content/wav/tsync2_noon_0_4151.wav|d oo0 j^ n a2 ng^ r o3 t^ kh e4 n^ m aa0 z^ m ii0 z^ n aa0 ng^ z ee0 z^ phr i2 w^ b e0 n^ c a1 z^ k u0 n^ m aa0 n^ d aa0 z^ p e0 n^ ph uu2 z^ ph aa0 z^ m aa0 z^|0
+/content/wav/tsync2_noon_0_6594.wav|z oo0 z^ k aa1 t^ k aa0 n^ k o1 t^ kr ee1 t^ r vv4 z^ kr ee1 t^ f qq3 z^ c v0 ng^ k qq1 t^ kh v2 n^ n @@3 j^ m aa2 k^|0
+/content/wav/tsync2_noon_0_1866.wav|ph o4 n^ k aa0 n^ s @@1 p^ p aa1 k^ kh a0 m^ ph a3 z^ n a3 k^ ng aa0 n^ b @@0 z^ r i3 z^ s a1 t^ th qq0 z^ s ee0 n^ ph a3 p^ bl i1 k^ z ee0 z^ j ee0 n^ s ii2 z^|0
+/content/wav/tsync2_noon_0_3012_2.wav|d uua2 j^ k @@1 n^ th ii2 z^ kh uu2 z^ b aa1 w^ s aa4 w^ c a1 z^ d qq0 n^ l @@2 t^ s u3 m^ kr a1 z^ b ii1 z^ kh @@4 ng^|0
+/content/wav/tsync2_noon_0_3685.wav|ph a3 k^ pr a1 z^ ch aa0 z^ th i3 z^ p a1 t^ tr iia0 m^ ch a0 m^ l x1 z^ t ii4 z^ kr aa1 ng^|0
+/content/wav/tsync2_noon_0_9087.wav|k a0 m^ m a3 z^ k aa0 n^ b @@0 z^ r i3 z^ s a1 t^ th a0 j^ w a3 t^ th a3 z^ n aa0 z^ f aa0 z^ m aa0 z^ s uu0 z^ t i1 z^ kh a2 l^ d e1 k^ thr oo3 s^ c a0 m^ k a1 t^|0
+/content/wav/tsync2_noon_0_4453_2.wav|ph e3 t^ ch a3 z^ b u1 z^ r ii0 z^ d oo0 j^ s o1 ng^ s qq4 m^ h a2 j^ m ii0 z^ k aa0 n^ c a1 t^ th a0 m^ s uu4 n^ r ii0 z^ s a0 j^ kh qq2 l^ ch u0 m^ ch o0 n^|0
+/content/wav/tsync2_noon_0_4412.wav|c a1 z^ r aa2 t^ z v1 z^ pr a1 z^ th uua3 ng^ z ii1 k^ khr a3 ng^ d oo0 j^ khr a3 ng^ n ii3 z^ c a1 z^ m aa0 z^ pl xx1 k^ kw aa1 z^ khr a3 ng^ k a1 w^ j aa1 ng^ n xx2 z^ n @@0 n^|0
+/content/wav/tsync2_noon_0_6450_2.wav|b ee1 s^ kh @@4 ng^ kh aa2 w^ s aa4 j^ ph a0 n^ n i3 p^ ph @@0 n^ b aa0 z^ r ee0 z^ n a3 n^ kh a1 z^ n a1 z^ n ii3 z^ n a0 j^ s uua1 n^ k aa0 n^ w i3 z^ c a0 j^ kh @@4 ng^ th a0 j^ d aa2 j^ s e1 t^ s i2 n^ l xx3 w^|0
+/content/wav/tsync2_noon_0_250.wav|m @@2 p^ w a3 t^ phr a3 z^ b aa1 t^ n aa3 m^ ph u3 z^ s aa2 ng^ t a0 w^ ph a4 w^ z ee1 t^|0
+/content/wav/tsync2_noon_0_4453_1.wav|s a1 z^ k xx2 w^ ch u0 m^ ph @@0 n^ s u1 z^ r aa2 t^ th aa0 z^ n ii0 z^ ph a3 t^ th a3 z^ l u0 ng^ l x3 z^ ph e3 t^ ch a3 z^ b u1 z^ r ii0 z^|0
+/content/wav/tsync2_noon_0_9168.wav|phr @3 z^ th a2 w^ th ii2 z^ kh qq0 j^ r uu3 z^ n ii2 z^ s iia4 z^ n a0 j^ r a3 z^ b o1 p^ ph @1 n^ ch a0 m^ r a3 z^ khr vva2 ng^ th oo0 z^ r a3 z^ s a1 p^ m vv0 z^ th vv4 z^ kh @@4 ng^ r ii0 z^ th ee0 w^ f a0 j^ n xx3 n^ b aa0 ng^ r aa0 j^ ph u2 ng^ s uu4 ng^ th v4 ng^ s i1 p^ h aa2 z^ p qq0 z^ s e0 n^|0
+/content/wav/tsync2_noon_0_728_1.wav|w a3 t^ th u1 z^ r a3 z^ b qq1 t^ s aa4 n^ ph i3 t^ l x3 z^ s aa4 n^ t i1 t^ ch vva3 z^ w a3 t^ th u1 z^ k a0 m^ m a0 n^ t a1 z^ r a0 ng^ s ii4 z^ k aa3 t^|0
+/content/wav/tsync2_noon_0_4567.wav|c a1 z^ d aa2 j^ l o3 t^ k aa0 n^ ph i3 z^ c aa0 z^ r a3 z^ n aa0 z^ p e0 n^ r aa0 j^ r aa0 j^ r uua0 m^ th a3 ng^ h a2 j^ ph vva1 z^ ch @2 ng^ th aa0 ng^ phl i3 k^ phl xx0 ng^ n a0 j^ k aa0 n^ kh x1 ng^ kh a4 n^ k a1 p^ t aa1 ng^ pr a1 z^ th ee2 t^|0
+/content/wav/tsync2_noon_0_9241.wav|m i2 ng^ khw a4 n^ pr iia2 ng^ ch @2 ng^ k aa2 w^ m a1 j^ s u1 t^ c aa3 p^|0
+/content/wav/tsync2_noon_0_5158.wav|t ii4 z^ kr aa1 ng^ kh o1 m^ kh uu1 z^ c i4 w^ kh @@4 z^ k aa2 w^ z ii2 z^ r a3 t^ th a1 z^ m o0 n^ tr ii0 z^|0
+/content/wav/tsync2_noon_0_6063.wav|j ii2 z^ h @@2 z^ kh oo0 z^ l a3 j^ kh @@4 ng^ kl aa0 ng^ m @@2 p^ t @@1 z^ ph a3 z^ n a3 k^ ng aa0 n^ s @@1 p^ s uua4 n^|0
+/content/wav/tsync2_noon_0_4453_3.wav|ch u0 m^ ch o0 n^ th a3 z^ n aa0 z^ kh aa0 n^ kh a1 z^ j a1 z^ r ii0 z^ s a0 j^ kh qq2 l^ n a0 j^ r oo0 ng^ r iia0 n^ k aa0 n^ th a0 m^ p u4 j^ m a1 k^ l x3 z^ k aa0 n^ th a0 m^ n aa3 m^ m a1 k^ c u1 z^ l i0 n^ s ii0 z^ l x3 z^ z vv1 n^ z vv1 n^|0
+/content/wav/tsync2_noon_0_7124.wav|th @4 j^ kr uu1 t^ khr i1 p^ h uu4 z^ s u1 z^ n a3 k^|0
+/content/wav/tsync2_noon_0_1228.wav|b aa0 ng^ s o1 p^ m ii0 z^ khr aa2 p^ s ii4 z^ kh aa4 w^ c a1 p^ khr q1 z^ kh @@1 p^ p aa1 k^|0
+/content/wav/tsync2_noon_0_3064.wav|l xx3 w^ phl u4 n^ phl a4 n^ z @@1 k^ c aa1 k^ b aa2 n^ p a0 j^|0
+/content/wav/tsync2_noon_0_6448.wav|ph vva2 z^ w i3 z^ c a0 j^ h aa4 z^ l a0 m^ d a1 p^ b ee1 s^ kh aa2 w^ s aa4 j^ ph a0 n^ n i3 p^ ph @@0 n^ b aa0 z^ r ee0 z^|0
+/content/wav/tsync2_noon_0_6450_1.wav|s v1 k^ s aa4 z^ w i3 z^ c a0 j^ khr oo0 z^ m oo0 z^ s oo0 m^ th ii2 z^ k aa2 w^ pr a1 z^ m aa0 n^ s @@4 ng^ l aa3 n^ b ee1 s^ c aa1 k^ s ii1 z^ r @@3 j^ s aa4 m^ s i1 p^ l aa3 n^ b ee1 s^|0
+/content/wav/tsync2_noon_0_4177.wav|d oo0 j^ m ii0 z^ m @1 m^ s ii4 z^ r a3 t^ m a3 z^ h i1 z^ d o0 n^ n a3 z^ z a1 z^ j u3 t^ th a3 z^ j aa0 z^|0
+/content/wav/tsync2_noon_0_3012_1.wav|l o0 ng^ n aa0 m^ n a0 j^ s a1 z^ m u1 t^ z uua0 j^ ph @@0 n^ phr @@3 m^ phr @@3 m^ k a1 p^ th ii2 z^ w o0 ng^ d o0 n^ tr ii0 z^ z @@0 z^ kh ee1 s^ tr aa2 z^ kh @@4 ng^ w o0 ng^ d u1 z^ r i3 z^ j aa0 ng^ th a3 z^ h aa4 n^ b o1 k^ b a0 n^ l ee0 ng^ phl ee0 ng^ w e3 t^ d i2 ng^ m aa3 ch^ khl @@0 z^ p a0 j^ d uua2 j^|0
